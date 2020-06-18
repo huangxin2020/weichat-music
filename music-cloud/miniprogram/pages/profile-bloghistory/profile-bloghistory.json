@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "h-blog-card": "/components/blogCard/blogCard",
+    "h-blog-ctrl": "/components/blogCtrl/blogCtrl"
+  },
+  "navigationBarTitleText": "我的blog浏览"
+}

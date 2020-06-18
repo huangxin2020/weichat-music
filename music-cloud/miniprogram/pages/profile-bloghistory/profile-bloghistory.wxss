@@ -1,0 +1,4 @@
+/* pages/profile-bloghistory/profile-bloghistory.wxss */
+.blog-panel {
+  margin-bottom: 20rpx;
+}

@@ -1,0 +1,7 @@
+{
+  "component": true,
+  "usingComponents": {
+    "h-login": "/components/login/login",
+    "h-bottom-modal": "/components/bottom-modal/bottom-modal"
+  }
+}

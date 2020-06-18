@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "h-progress-bar": "/components/progress-bar/progress-bar",
+    "h-lyric": "/components/lyric/lyric"
+  },
+  "disableScroll": true
+}
